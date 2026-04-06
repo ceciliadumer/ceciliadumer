@@ -141,9 +141,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ceciliadumer&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ceciliadumer&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+</p> -->
 
 
 ## 📫 Contato
